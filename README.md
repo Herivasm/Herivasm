@@ -72,7 +72,7 @@ I love web developing with technologies like React, TypeScript, etc.
 </a>
 
 <div>
-<h2 align="center" style="margin: 5px 10px;">GitHub stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">GitHub Stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=herivasm&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/herivasm)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=herivasm&theme=material-palenight)](https://github.com/herivasm)
