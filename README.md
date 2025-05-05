@@ -21,7 +21,14 @@ I'm a Computer Science and Engineering Student
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  
+  
 </span>
 
 <h4> Databases </h4>
@@ -38,6 +45,12 @@ I'm a Computer Science and Engineering Student
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  
 
 </span>
   
