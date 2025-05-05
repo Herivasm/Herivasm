@@ -33,6 +33,7 @@ I'm a Computer Science and Engineering Student
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  
 ## Social Media
 
 <a href="https://www.instagram.com/herivasm/">
