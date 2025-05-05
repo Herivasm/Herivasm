@@ -1,11 +1,12 @@
 <h1 align="center"><b>Hi , I'm Heriberto Yañez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Hi, I'm Heriberto, you can call me Heri.
-I am a mexican software development student.
-I love web developing with technologies like React, TypeScript, etc.  
-- I do calisthenics
-- I am a really coffee fan
+Hi, I'm Heriberto Yañez! 🐱‍🚀
+Student of Software Development and Management Engineering 🐱‍💻
+FullStack Web Developer, I mainly handle TypeScript, React Js, Node.js and Express.js for web application development 🐱‍👤
+Willing to always learn more in the wonderful world of development Software🐱‍🐉
+- I do calisthenics and running
+- I am a really coffee fan (I can't live without 3 cups per day)
 
 --- 
 
