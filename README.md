@@ -4,8 +4,6 @@
 I'm a Computer Science and Engineering Student
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- ⚡ Facts of me: I do calisthenics and I love running. 
 ---
 
 ## My Skilss
