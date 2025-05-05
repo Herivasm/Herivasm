@@ -3,8 +3,8 @@
 
 Hi, I'm Heriberto Yañez! 🐱‍🚀
 Student of Software Development and Management Engineering 🐱‍💻
-FullStack Web Developer, I mainly handle TypeScript, React Js, Node.js and Express.js for web application development 🐱‍👤
-Willing to always learn more in the wonderful world of development Software🐱‍🐉
+FullStack Web Developer, I mainly handle TypeScript, React Js, Node.js and Express.js for web application development 
+🐱‍👤 Willing to always learn more in the wonderful world of development Software🐱‍🐉
 - I do calisthenics and running
 - I am a really coffee fan (I can't live without 3 cups per day)
 
