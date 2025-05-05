@@ -9,7 +9,7 @@ I love web developing with technologies like React, TypeScript, etc.
 
 --- 
 
-## My Skilss
+## My Skills
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
