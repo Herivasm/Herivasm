@@ -4,7 +4,9 @@
 Hi, I'm Heriberto, you can call me Heri.
 I am a mexican software development student.
 I love web developing with technologies like React, TypeScript, etc.  
-
+-
+-
+-
 --- 
 
 ## My Skilss
