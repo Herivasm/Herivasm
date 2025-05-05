@@ -4,11 +4,13 @@
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- ⚡ Facts of me: I do calisthenics and I love running.
-
-
-  
+- ⚡ Facts of me: I do calisthenics and I love running. 
 ---
+## Check out my Social Media
+
+<a href="https://www.instagram.com/herivasm/">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 
 
 
