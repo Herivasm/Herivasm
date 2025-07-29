@@ -94,7 +94,7 @@ creating efficient and scalable web applications, implementing RESTful APIs, and
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/saulo-heriberto-ya%C3%B1ez-hern%C3%A1ndez-65b300267/">
+<a href="www.linkedin.com/in/heribertoyañez">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
