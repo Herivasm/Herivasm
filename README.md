@@ -39,6 +39,7 @@ creating efficient and scalable web applications, implementing RESTful APIs, and
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </span>
   
 <h4> Databases - ORM/ODM </h4>
@@ -88,7 +89,7 @@ creating efficient and scalable web applications, implementing RESTful APIs, and
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </span>
   
-## Social Media
+## My Social Medias
 
 <a href="https://www.instagram.com/herivasm/">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
