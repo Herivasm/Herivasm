@@ -3,8 +3,8 @@
 
 🐱‍🚀
 Student of Software Development and Management Engineering 🐱‍💻
-I have practical experience about developing web applications using React, TypeScript, and Node.js, 
-creating efficient and scalable web applications, implementing RESTful APIs, and managing databases with Sequelize, Prisma, and Mongoose.
+I have practical experience about developing web applications using TypeScript, Node.js and React
+creating efficient and scalable web applications, implementing RESTful APIs, and managing databases with Sequelize, Prisma, TypeORM and Mongoose.
 🐱‍👤 Willing to always learn more in the wonderful world of development Software🐱‍🐉
 - I do calisthenics and running
 - I am a really coffee fan (I can't live without 3 cups per day) ☕
