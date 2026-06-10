@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 🐱‍🚀
-Student of Software Development and Management Engineering 🐱‍💻
+Engineer of Software Development and Management Engineering 🐱‍💻
 I have practical experience about developing web applications using TypeScript, Node.js and React
 creating efficient and scalable web applications, implementing RESTful APIs, and managing databases with Sequelize, Prisma, TypeORM and Mongoose.
 🐱‍👤 Willing to always learn more in the wonderful world of development Software🐱‍🐉
